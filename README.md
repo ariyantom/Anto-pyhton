@@ -1,2 +1,2 @@
-# Anto-pyhton
+# Anto-python
 Python sederhana
